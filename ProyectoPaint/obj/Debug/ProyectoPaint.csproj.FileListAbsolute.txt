@@ -1,0 +1,27 @@
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\bin\Debug\ProyectoPaint.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\obj\Debug\ProyectoPaint.csprojResolveAssemblyReference.cache
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\obj\Debug\ProyectoPaint.MainWindow.resources
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\obj\Debug\ProyectoPaint.Properties.Resources.resources
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\obj\Debug\ProyectoPaint.csproj.GenerateResource.Cache
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\bin\Debug\ProyectoPaint.exe
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\bin\Debug\ProyectoPaint.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\obj\Debug\ProyectoPaint.exe
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoPaint\ProyectoPaint\obj\Debug\ProyectoPaint.pdb
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\bin\Debug\ProyectoPaint.exe.config
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.exe
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.pdb
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\bin\Debug\ProyectoPaint.exe
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\bin\Debug\ProyectoPaint.pdb
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.csprojResolveAssemblyReference.cache
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.MainWindow.resources
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.Properties.Resources.resources
+C:\Users\cedo\Desktop\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.csproj.GenerateResource.Cache
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\bin\Debug\ProyectoPaint.exe.config
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.exe
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.pdb
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\bin\Debug\ProyectoPaint.exe
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\bin\Debug\ProyectoPaint.pdb
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.csprojResolveAssemblyReference.cache
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.MainWindow.resources
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.Properties.Resources.resources
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoPaint-master\ProyectoPaint\obj\Debug\ProyectoPaint.csproj.GenerateResource.Cache
